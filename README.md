@@ -7,7 +7,7 @@ It includes sections like About Me, Skills, Projects, and Contact with smooth na
 - Smooth scrolling navigation
 - Responsive design
 - Animated skill and project cards
-- Contact form (demo)
+- Contact form
 
 ## Technologies
 - HTML
@@ -19,4 +19,4 @@ It includes sections like About Me, Skills, Projects, and Contact with smooth na
 2. Open `index.html` in a browser.
 
 ## Demo
-(You can deploy it on GitHub Pages and paste your live URL here.)
+https://github.com/Santhoshduggi/interactive-digital-portfolio.git
